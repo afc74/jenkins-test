@@ -1,8 +1,10 @@
+$colorBorder: #78a6cb;
+
 body {
   font-family: sans-serif;
   margin: 0;
   padding: 1em;
-  border: solid 1em brown;
+  border: solid 1em $colorBorder;
   color: darkred;
 }
 
